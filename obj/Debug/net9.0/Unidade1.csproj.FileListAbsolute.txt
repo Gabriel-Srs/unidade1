@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Análise e Desenvolvimento de Sistemas\Algoritmos e Técnicas de Programação\Projetos-ATP\Unidade1\bin\Debug\net9.0\Unidade1.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Análise e Desenvolvimento de Sistemas\Algoritmos e Técnicas de Programação\Projetos-ATP\Unidade1\bin\Debug\net9.0\Unidade1.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Análise e Desenvolvimento de Sistemas\Algoritmos e Técnicas de Programação\Projetos-ATP\Unidade1\bin\Debug\net9.0\Unidade1.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Análise e Desenvolvimento de Sistemas\Algoritmos e Técnicas de Programação\Projetos-ATP\Unidade1\bin\Debug\net9.0\Unidade1.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Análise e Desenvolvimento de Sistemas\Algoritmos e Técnicas de Programação\Projetos-ATP\Unidade1\bin\Debug\net9.0\Unidade1.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Análise e Desenvolvimento de Sistemas\Algoritmos e Técnicas de Programação\Projetos-ATP\Unidade1\obj\Debug\net9.0\Unidade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Análise e Desenvolvimento de Sistemas\Algoritmos e Técnicas de Programação\Projetos-ATP\Unidade1\obj\Debug\net9.0\Unidade1.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Análise e Desenvolvimento de Sistemas\Algoritmos e Técnicas de Programação\Projetos-ATP\Unidade1\obj\Debug\net9.0\Unidade1.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Análise e Desenvolvimento de Sistemas\Algoritmos e Técnicas de Programação\Projetos-ATP\Unidade1\obj\Debug\net9.0\Unidade1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Análise e Desenvolvimento de Sistemas\Algoritmos e Técnicas de Programação\Projetos-ATP\Unidade1\obj\Debug\net9.0\Unidade1.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Análise e Desenvolvimento de Sistemas\Algoritmos e Técnicas de Programação\Projetos-ATP\Unidade1\obj\Debug\net9.0\refint\Unidade1.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Análise e Desenvolvimento de Sistemas\Algoritmos e Técnicas de Programação\Projetos-ATP\Unidade1\obj\Debug\net9.0\Unidade1.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Análise e Desenvolvimento de Sistemas\Algoritmos e Técnicas de Programação\Projetos-ATP\Unidade1\obj\Debug\net9.0\Unidade1.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Análise e Desenvolvimento de Sistemas\Algoritmos e Técnicas de Programação\Projetos-ATP\Unidade1\obj\Debug\net9.0\ref\Unidade1.dll
